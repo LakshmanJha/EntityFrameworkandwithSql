@@ -6,3 +6,4 @@
 /EntityFrameworkwithSql/EntityFrameworkwithSql/bin/Debug/net8.0
 *.jfm
 *.vsidx
+/EntityFrameworkwithSql/EntityFrameworkwithSql/EntityFrameworkwithSql.csproj
